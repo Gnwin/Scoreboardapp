@@ -10,10 +10,10 @@ let resetButton = document.querySelector(".reset");
 let input = document.getElementById("input");
 // selects PLAYING TO: display area
 let maxscore = document.querySelector(".maxscore");
-// assigns an independent score to an initial value of zero 
+// assigns a new independent score variable to an initial value of zero 
 let score1 = 0;
 let score2 = 0;
-// At game start, gameOver initial state of the game is false
+// At game start, gameOver initial state of the app is false
 let gameOver = false;
 
 

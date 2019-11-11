@@ -1,0 +1,25 @@
+{
+  "name": "scoreboardapp",
+  "version": "1.0.0",
+  "description": "sports scorekeeping app for different games",
+  "main": "sb.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gnwin/Scoreboardapp.git"
+  },
+  "keywords": [
+    "'scorekeeping'",
+    "'scoreboard'",
+    "'games'",
+    "'sport'"
+  ],
+  "author": "Godwin Nwachukwu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gnwin/Scoreboardapp/issues"
+  },
+  "homepage": "https://github.com/Gnwin/Scoreboardapp#readme"
+}
